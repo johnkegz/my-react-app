@@ -1,0 +1,69 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    },
+    {
+      "id": 1703141473297,
+      "title": "Do Laundry"
+    },
+    {
+      "id": 1703141476842,
+      "title": "Do Laundry"
+    },
+    {
+      "id": 1703141602723,
+      "title": "Do Laundry"
+    },
+    {
+      "id": 1703141607656,
+      "title": "Do Laundry"
+    },
+    {
+      "id": 1703141650905,
+      "title": "Do Laundry"
+    },
+    {
+      "id": 1703141652742,
+      "title": "Do Laundry"
+    },
+    {
+      "id": 1703142092177,
+      "title": "Do Laundry"
+    },
+    {
+      "id": 1703143962998,
+      "title": "Do Laundry"
+    },
+    {
+      "id": 1703146609675,
+      "title": "Do Laundry"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "Comment 1",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "Comment 2",
+      "postId": 1
+    },
+    {
+      "id": 3,
+      "body": "Comment 3",
+      "postId": 2
+    }
+  ]
+}
